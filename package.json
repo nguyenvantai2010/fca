@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/DongDevVN/fca-unofficial.git"
+    "url": "git://github.com/nguyenvantai2010/fca.git"
   },
   "keywords": [
     "facebook",
@@ -18,7 +18,7 @@
     "fca"
   ],
   "bugs": {
-    "url": "https://github.com/DongDevVN/fca-unofficial/issues"
+    "url": "https://github.com/nguyenvantai2010/fca/issues"
   },
   "author": "Avery, David, Maude, Benjamin, UIRI, MiraiTeam",
   "license": "MIT",
